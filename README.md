@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @danisanca
-- 👀 I’m interested in front-end development with Reactjs and Nodejs.
-- 🌱 I’m currently learning ReactJs and NodeJs
+- 👀 I’m interested in Android development with Kotlin and Java too.
+- 🌱 I’m currently learning Java and Spring Boot.
