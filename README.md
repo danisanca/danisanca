@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @danisanca
-- 👀 I’m interested in Android development with Kotlin and Java too.
-- 🌱 I’m currently learning Java and Spring Boot.
+- 👀 I’m interested in Android development with Kotlin.
