@@ -1,6 +1,6 @@
 
 
-Olá! Eu sou o Daniel, sou estudante da Análise e Desenvolvimento de Sistemas cursando ultimo semestre. Começei meus estudo na area de programação em 2018 voltado a parte de desenvolvimento de jogo mas somente em 2021 migrei de forma mais ativa para a area. Atualmente busco um oportunidade como desenvolvedor android/fullstack C#.
+Olá! Eu sou o Daniel, sou estudante da Análise e Desenvolvimento de Sistemas cursando penultimo semestre. Começei meus estudo na area de programação em 2018 voltado a parte de desenvolvimento de jogo mas somente em 2021 migrei de forma mais ativa para a area. Atualmente busco um oportunidade como desenvolvedor backend C#.
 
 ### Hard-Skills
 
