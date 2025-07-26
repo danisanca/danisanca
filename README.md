@@ -1,6 +1,6 @@
 
 
-Olá! Eu sou o Daniel, sou estudante da Análise e Desenvolvimento de Sistemas cursando penultimo semestre. Começei meus estudo na area de programação em 2018 voltado a parte de desenvolvimento de jogo mas somente em 2021 migrei de forma mais ativa para a area. Atualmente busco um oportunidade como desenvolvedor backend C#.
+Olá! Eu sou o Daniel, formado em Análise e Desenvolvimento de Sistemas. Começei meus estudo na area de programação em 2018 voltado a parte de desenvolvimento de jogo mas somente em 2021 migrei de forma mais ativa para a area. Atualmente busco um oportunidade como desenvolvedor backend C#. Nas horas vagas ainda continuo com desenvolvimento de jogos, estudando alguns conteudo voltado a parte de arquiteturas e padroes de projetos para backend. Na sequencia gostaria de melhorar um pouco mais meus conhecimentos na parte de front-end com angular e razor pages.
 
 ### Hard-Skills
 
