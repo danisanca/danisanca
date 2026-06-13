@@ -84,12 +84,6 @@ Nas horas vagas, desenvolvo jogos utilizando **Unity** e também crio projetos r
 
 Atuar como **Desenvolvedor Backend C#/.NET**, contribuindo para a criação de soluções escaláveis, performáticas e bem arquitetadas, enquanto continuo evoluindo meus conhecimentos em desenvolvimento de software e Inteligência Artificial.
 
----
-
-### 📫 Contato
-
-- LinkedIn: https://linkedin.com/in/seu-perfil
-- E-mail: seuemail@exemplo.com
 
 ---
 ⭐ Sempre aberto a aprender novas tecnologias, colaborar em projetos e compartilhar conhecimento.
@@ -101,7 +95,7 @@ Atuar como **Desenvolvedor Backend C#/.NET**, contribuindo para a criação de s
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danisanca&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danisanca&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Conecte-se comigo
+### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-mendonca-dev-dotnet/)
 
